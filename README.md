@@ -74,6 +74,7 @@ Offensive Security
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=flat-square&logo=tailwind-css)
 
 ### 🐍 Programming
 
