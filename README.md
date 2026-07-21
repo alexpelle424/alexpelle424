@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Alexander Pellegrini - Web Application Security" width="100%">
+</p>
+
+
 # 👋 Hi, I'm Alexander Pellegrini
 
 ### 🛡️ Web Application Pentester | Full Stack Developer | Application Security
