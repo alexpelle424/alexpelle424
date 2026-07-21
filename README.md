@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Alexander Pellegrini - Web Application Security" width="100%">
+  <img src="./assets/banner.png" alt="Alexander Pellegrini - Web Application Security" width="100%">
 </p>
 
 
