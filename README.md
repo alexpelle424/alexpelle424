@@ -241,9 +241,9 @@ My approach to security testing focuses on understanding the application, identi
 
 ## 🌐 Connect With Me
 
-💼 **LinkedIn:** [Your LinkedIn](#)
-📧 **Email:** [Your Email](mailto:your-email@example.com)
-🔗 **Portfolio:** [Your Website](#)
+💼 **LinkedIn:** [Alexander Pellegrini](#)
+📧 **Email:** [Alexander Pellegrini](mailto:alexanderpellegrini424@example.com)
+🔗 **Portfolio:** [Portafolio](https://alexpelle424.github.io/Portafolio/)
 
 ---
 
