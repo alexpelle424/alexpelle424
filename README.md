@@ -1,66 +1,94 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Alexander Pellegrini - Web Application Security" width="100%">
+  <img src="./assets/banner.png" alt="Alexander Pellegrini - Application Security & Web/API Security" width="100%">
 </p>
 
+<h1 align="center">👋 Hi, I'm Alexander Pellegrini</h1>
 
-# 👋 Hi, I'm Alexander Pellegrini
+<h3 align="center">
+  Application Security & Web/API Security | Full Stack Developer
+</h3>
 
-### 🛡️ Web Application Pentester | Full Stack Developer | Application Security
-
-I'm a Full Stack Developer focused on **Web Application Security, Application Security, and Offensive Security**.
-
-My background in web development allows me to understand applications from both sides: **how they are built and how they can be attacked**.
-
-I'm particularly interested in identifying vulnerabilities in web applications and APIs, understanding their root causes, assessing their real-world impact, and documenting practical remediation strategies.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexander-pellegrini/">LinkedIn</a>
+  ·
+  <a href="https://alexpelle424.github.io/Portafolio/">Portfolio</a>
+  ·
+  <a href="mailto:alexanderpellegrini424@example.com">Contact</a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🛡️ About Me
 
-🔐 Web Application Pentesting
-🛡️ Application Security
-🌐 API Security
-🔎 Vulnerability Research
-⚙️ Secure Software Development
-📚 Continuous Security Research
+I'm a Full Stack Developer and Application Security practitioner focused on **Web Application Security, API Security, and Vulnerability Research**.
 
-My main areas of interest include:
+My development background allows me to approach security from both sides: understanding how applications are designed and built, and how they can be attacked.
 
-* 🌐 Web Application Security
-* 🔌 REST API Security
-* 🔑 Authentication & Authorization
-* 🚪 Access Control & IDOR / BOLA
-* 🧠 Business Logic Vulnerabilities
-* 💉 SQL Injection
-* 📜 Cross-Site Scripting (XSS)
-* 🔄 Cross-Site Request Forgery (CSRF)
-* 🌍 Server-Side Request Forgery (SSRF)
-* 🔬 Vulnerability Analysis
-* 📝 Security Reporting & Remediation
+I focus on identifying vulnerabilities, understanding their root causes, assessing their real-world impact, and providing practical remediation guidance.
+
+My goal is not only to find security issues, but to understand **why they exist, how they can be exploited, what they mean for the application and its users, and how they can be fixed**.
+
+---
+
+## 🔐 What I Do
+
+I focus on security assessments and research involving web applications and APIs, with an emphasis on vulnerabilities that can have meaningful security and business impact.
+
+### Security Assessments
+
+* Web Application Security Testing
+* API Security Testing
+* Authentication & Authorization Testing
+* Access Control & IDOR / BOLA Testing
+* Session Management Testing
+* Business Logic Testing
+* Input Validation Testing
+* Vulnerability Assessment
+* Security Retesting
+
+### Security Deliverables
+
+* Technical Security Reports
+* Vulnerability Documentation
+* Risk Assessment
+* Impact Analysis
+* Remediation Recommendations
+* Retesting and Validation
+
+My approach is focused on providing findings that are technically accurate, understandable, and actionable for development and engineering teams.
+
+---
+
+## 🏆 Vulnerability Research & Bug Bounty
+
+I actively participate in vulnerability research and bug bounty programs, primarily focusing on web applications and APIs.
+
+My experience includes identifying and responsibly reporting security vulnerabilities within authorized programs, as well as analyzing real-world application security issues and their underlying causes.
+
+This experience complements my background in software development and allows me to approach security testing from both an **offensive** and **application-aware** perspective.
+
+I follow responsible disclosure practices and respect the rules and scope defined by each security program.
+
+> ⚠️ All security research and testing documented here is performed within authorized scopes, bug bounty programs, controlled laboratories, or environments where explicit permission has been granted.
 
 ---
 
 ## 🎯 Security Focus
 
-I'm currently focused on developing my skills in:
+My primary areas of interest include:
 
-```text
-Web Application Security
-        ↓
-API Security
-        ↓
-Authentication & Authorization
-        ↓
-Access Control
-        ↓
-Business Logic
-        ↓
-Vulnerability Research
-        ↓
-Application Security
-        ↓
-Offensive Security
-```
+* 🌐 Web Application Security
+* 🔌 REST API Security
+* 🔑 Authentication & Authorization
+* 🛂 Access Control & IDOR / BOLA
+* 🧠 Business Logic Vulnerabilities
+* 💉 SQL Injection
+* 📜 Cross-Site Scripting (XSS)
+* 🔄 Cross-Site Request Forgery (CSRF)
+* 🌍 Server-Side Request Forgery (SSRF)
+* 🔎 Vulnerability Research
+* 📝 Security Reporting & Remediation
+* 🛡️ Secure Application Development
 
 ---
 
@@ -74,13 +102,13 @@ Offensive Security
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
 ### 🐍 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-239120?style=flat-square\&logo=c\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
 ### 🗄️ Databases
@@ -88,29 +116,31 @@ Offensive Security
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
-### 🛡️ Cybersecurity
+### 🛡️ Security
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square\&logo=burpsuite\&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square\&logo=owasp\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
-* 🔍 Web Application Pentesting
-* 🌐 API Security Testing
-* 🔐 Authentication Testing
-* 🛂 Authorization & Access Control
-* 🧠 Business Logic Testing
-* 🧪 Vulnerability Assessment
-* 📋 OWASP Top 10
-* 📝 Security Reporting
-* 🔧 Remediation Recommendations
+**Security capabilities:**
+
+* Web Application Security Testing
+* API Security Testing
+* Authentication Testing
+* Authorization & Access Control Testing
+* Business Logic Testing
+* Vulnerability Assessment
+* OWASP Security Testing
+* Security Reporting
+* Remediation Recommendations
 
 ---
 
 ## 🔬 Security Research
 
-I use this space to document my research, experiments, and learning process in application security.
+I use this space to document technical research, experiments, security labs, and application security topics.
 
-### 📚 Research Topics
+### Research Topics
 
 * 🔑 Authentication
 * 🛂 Authorization
@@ -122,8 +152,9 @@ I use this space to document my research, experiments, and learning process in a
 * 🧠 Business Logic
 * 🔎 Vulnerability Analysis
 * 🛡️ Secure Development
+* ⚙️ Application Security
 
-> ⚠️ All security research and testing documented here is performed in authorized environments, laboratories, or applications specifically designed for security testing.
+Research published here is intended for educational and authorized security testing purposes.
 
 ---
 
@@ -131,9 +162,9 @@ I use this space to document my research, experiments, and learning process in a
 
 ### 🔬 Web Security Research
 
-A collection of technical write-ups and security research focused on web application vulnerabilities.
+A collection of technical research and write-ups focused on web application and API security.
 
-**Topics covered:**
+**Topics include:**
 
 `Authentication` `Authorization` `API Security` `SQL Injection` `XSS` `SSRF` `Business Logic`
 
@@ -143,9 +174,9 @@ A collection of technical write-ups and security research focused on web applica
 
 ### 🧪 Vulnerable Web Application Lab
 
-A deliberately vulnerable web application developed for educational purposes and security testing.
+A deliberately vulnerable web application designed for educational purposes and controlled security testing.
 
-The project is designed to explore vulnerabilities from both the **developer and attacker perspectives**.
+The project explores vulnerabilities from both the **developer** and **attacker** perspectives, demonstrating how insecure implementation decisions can lead to exploitable security issues.
 
 **Technologies:**
 
@@ -157,7 +188,7 @@ The project is designed to explore vulnerabilities from both the **developer and
 
 ### 🛠️ Security Tools
 
-A collection of security-oriented tools and scripts developed for educational and authorized security testing purposes.
+A collection of security-oriented tools and scripts developed for educational purposes and authorized security testing.
 
 **Technologies:**
 
@@ -169,7 +200,7 @@ A collection of security-oriented tools and scripts developed for educational an
 
 ## 💻 Development Background
 
-My background in web development includes building:
+My background in software development includes building:
 
 * 🌐 Full Stack Applications
 * 🔌 REST APIs
@@ -177,7 +208,7 @@ My background in web development includes building:
 * 🗄️ Database-driven Applications
 * ⚙️ Web Solutions
 
-This development background helps me understand:
+This experience helps me understand:
 
 * Application Architecture
 * Client-Server Communication
@@ -188,11 +219,11 @@ This development background helps me understand:
 * API Design
 * Common Security Implementation Mistakes
 
-I use this knowledge to approach security testing from an **application-aware perspective**.
+I use this knowledge to approach application security from an **application-aware perspective**, connecting vulnerabilities to the underlying code, architecture, and business logic that caused them.
 
 ---
 
-## 🔎 Security Testing Methodology
+## 🔎 Security Testing Approach
 
 My approach to security testing focuses on understanding the application, identifying its attack surface, validating security issues, assessing their impact, and providing actionable remediation guidance.
 
@@ -217,39 +248,57 @@ My approach to security testing focuses on understanding the application, identi
         ↓
 10 ─ Vulnerability Validation
         ↓
-11 ─ Risk Assessment
+11 ─ Risk & Impact Assessment
         ↓
 12 ─ Technical Reporting
         ↓
 13 ─ Remediation Recommendations
+        ↓
+14 ─ Retesting & Validation
 ```
 
----
+The goal is to provide more than a list of vulnerabilities.
 
-## 📖 Currently Learning
+A security assessment should help answer:
 
-🔐 Advanced Web Application Security
-🔌 API Security
-🧠 Business Logic Vulnerabilities
-🔑 Advanced Authentication Testing
-🛂 Advanced Authorization Testing
-🛡️ Application Security
-💻 Secure Software Development
-⚔️ Penetration Testing Methodologies
+* What is the vulnerability?
+* Why does it exist?
+* How can it be exploited?
+* What is the potential impact?
+* How should it be remediated?
+* Has the remediation been successfully implemented?
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Continuous Learning & Research
 
-<!-- Add GitHub statistics here once the profile has enough activity -->
+I continuously deepen my knowledge in:
+
+* Advanced Web Application Security
+* API Security
+* Business Logic Vulnerabilities
+* Authentication & Authorization
+* Access Control
+* Application Security
+* Secure Software Development
+* Vulnerability Research
+* Penetration Testing Methodologies
+
+---
+
+## 📊 GitHub Activity
+
+<!-- GitHub statistics can be added as the profile grows -->
 
 ---
 
 ## 🌐 Connect With Me
 
 💼 **LinkedIn:** [Alexander Pellegrini](https://www.linkedin.com/in/alexander-pellegrini/)
-📧 **Email:** [Alexander Pellegrini](mailto:alexanderpellegrini424@example.com)
-🔗 **Portfolio:** [Portafolio](https://alexpelle424.github.io/Portafolio/)
+
+🔗 **Portfolio:** [alexpelle424.github.io/Portafolio](https://alexpelle424.github.io/Portafolio/)
+
+📧 **Email:** [Contact Me](mailto:alexanderpellegrini424@example.com)
 
 ---
 
